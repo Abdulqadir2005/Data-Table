@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding= "utf-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<Shop>
+    <Order id= "1">
+        <Item>Ring</Item>
+        <Weight>2.5 Gram</Weight>
+        <Quality>21.k</Quality>
+        <FeeTolaRate>237000</FeeTolaRate>
+        <FeeGram>19000</FeeGram>
+        <Price>50000</Price>
+    </Order>
+
+    <Order id= "2">
+        <Item>Nose Pin</Item>
+        <Weight>0.8 MiliGram</Weight>
+        <Quality>21.k</Quality>
+        <FeeTolaRate>237000</FeeTolaRate>
+        <FeeGram>19000</FeeGram>
+        <Price>2500</Price>
+    </Order>
+
+     <Order id= "3">
+        <Item>Earing</Item>
+        <Weight>3.5 Gram</Weight>
+        <Quality>21.k</Quality>
+        <FeeTolaRate>237000</FeeTolaRate>
+        <FeeGram>19000</FeeGram>
+        <Price>70000</Price>
+    </Order>
+</Shop>
